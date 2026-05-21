@@ -18,6 +18,9 @@ Projeto desenvolvido para a disciplina de Programação Orientada a Objetos (POO
 
 ---
 
+## ⚙️ Como executar
+Para testar o projeto sem precisar compilar o código, basta baixar o arquivo `.jar` na aba **Releases** ao lado e executá-lo com o Java instalado na máquina.
+
 ## ⚙️ Como configurar e rodar o Banco de Dados
 
 Para que o sistema funcione perfeitamente na sua máquina, é necessário preparar o ambiente do banco de dados antes de executar o Java. Siga os passos abaixo:
